@@ -1,5 +1,5 @@
 # ghost
-###a word game
+### a word game
 
 ghost is a simple game with the following ruleset
 
