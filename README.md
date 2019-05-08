@@ -15,4 +15,6 @@ loses and the other player wins.
 
 to run the game, simply execute this command on a command line while inside of a directory containing both `ghost.py` and `wordlist_kevin_atkinson.txt`.
 
-```python3 ghost.py```
+~~~~~
+python3 ghost.py
+~~~~~
